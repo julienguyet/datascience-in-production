@@ -30,7 +30,8 @@ This repository is organized as follow:
     ├── models             <- Trained and serialized models: encoder and model joblib files
                               needed to run the predictions on fresh data.
     │
-    ├── notebooks          <- Jupyter notebooks. Execute model-industrialization-final to run the prediction job.
+    ├── notebooks          <- Jupyter notebooks. Execute model-industrialization-final 
+                              to run the prediction job.
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment. You can
                               install them with `pip install -r requirements.txt`
